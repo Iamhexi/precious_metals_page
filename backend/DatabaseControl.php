@@ -7,7 +7,7 @@ class DatabaseControl{
     private $user = 'root';
     private $password = '';
     private $database = 'preciousMetals';
-    private $table = 'exchangeRates';
+    private $table = 'exchangerates';
     
     private $gold;
     private $silver;
